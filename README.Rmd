@@ -2,8 +2,8 @@
 
 <!--- Badges ----->
 [![CRAN Version](http://www.r-pkg.org/badges/version/Zelig)](http://cran.r-project.org/package=Zelig)
-[![Build Status](https://travis-ci.org/christophergandrud/Zelig.svg?branch=master)](https://travis-ci.org/christophergandrud/Zelig)
-[![codecov.io](https://codecov.io/github/IQSS/Zelig/coverage.svg?branch=pkgdown)](https://codecov.io/github/IQSS/Zelig/coverage.svg?branch=pkgdown)
+[![Build Status](https://travis-ci.org/IQSS/Zelig.svg?branch=master)](https://travis-ci.org/IQSS/Zelig)
+[![codecov](https://codecov.io/gh/IQSS/Zelig/branch/master/graph/badge.svg)](https://codecov.io/gh/IQSS/Zelig)
 ![CRAN Monthly Downloads](http://cranlogs.r-pkg.org/badges/last-month/Zelig)
 ![CRAN Total Downloads](http://cranlogs.r-pkg.org/badges/grand-total/Zelig)
 
