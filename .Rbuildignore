@@ -2,4 +2,7 @@
 ^\.Rproj\.user$
 .gitignore
 images
-README.md
+README.Rmd
+docs/*
+_pkgdown.yml
+.travis.yml
