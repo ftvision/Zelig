@@ -1,6 +1,7 @@
 <a href="http://zeligproject.org"><img src="images/zelig.png" align="left" height="80" vspace="8" hspace="18"></a>
 
 <!--- Badges ----->
+Version: `r  packageVersion('Zelig')`
 [![CRAN Version](http://www.r-pkg.org/badges/version/Zelig)](http://cran.r-project.org/package=Zelig)
 [![Build Status](https://travis-ci.org/christophergandrud/Zelig.svg?branch=master)](https://travis-ci.org/christophergandrud/Zelig)
 [![codecov.io](https://codecov.io/github/IQSS/Zelig/coverage.svg?branch=pkgdown)](https://codecov.io/github/IQSS/Zelig/coverage.svg?branch=pkgdown)
